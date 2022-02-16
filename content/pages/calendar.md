@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 ---
@@ -230,7 +232,7 @@ First Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class8assignments))
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 National Secutiry Policy as History
 {{< thclose >}}
 
@@ -473,7 +475,7 @@ Lawrence Freedman and Efraim Karsh, "How Kuwait was Won: Strategy in the Gulf Wa
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Basking in the Post-Cold War Sunshine 1992-2000
 {{< thclose >}}
 

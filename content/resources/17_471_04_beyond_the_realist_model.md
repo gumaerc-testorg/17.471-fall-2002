@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information about the beyond the realist model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-471-american-national-security-policy-fall-2002/9e77aa9f37c4307d93b9d6364f11fd9e_17_471_04_Beyond_the_Realist_Model.pdf
+file: /media/courses/17-471-american-national-security-policy-fall-2002/9e77aa9f37c4307d93b9d6364f11fd9e_17_471_04_Beyond_the_Realist_Model.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: 17_471_04_Beyond_the_Realist_Model.pdf
 uid: 9e77aa9f-37c4-307d-93b9-d6364f11fd9e
