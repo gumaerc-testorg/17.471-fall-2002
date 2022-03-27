@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: Homeland_Security_Strategy.pdf
 uid: 996f05c7-29b6-dae7-82b8-4a81a3012eb4

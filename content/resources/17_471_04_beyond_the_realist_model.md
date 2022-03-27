@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: 17_471_04_Beyond_the_Realist_Model.pdf
 uid: 9e77aa9f-37c4-307d-93b9-d6364f11fd9e

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: Reagan_SDI_Speech.pdf
 uid: 11d7f0fe-d7e0-4f71-797e-f5894f3d5f89

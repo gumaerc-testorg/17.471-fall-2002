@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: class8assignments.pdf
 uid: a6d687a6-1cdf-9d6a-a50b-0d79e6884616

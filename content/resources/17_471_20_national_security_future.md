@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: 17_471_20_National_Security_Future.pdf
 uid: 22720108-4a45-594d-15e5-07bda64da6de

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: The_War_Powers_Act_of_1973.pdf
 uid: 36ef2c9c-d613-dd1d-385d-557aa3b20f0a

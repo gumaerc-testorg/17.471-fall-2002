@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: 17_471_05_President_and_Congress.pdf
 uid: b4fb6e14-dbb7-336b-dbc2-ccc14eb0927d

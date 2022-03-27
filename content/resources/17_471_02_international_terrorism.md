@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
 resourcetype: Document
 title: 17_471_02_International_Terrorism.pdf
 uid: aa082b94-9c32-0476-d8e9-41f453e3b0e6
