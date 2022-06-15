@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 6be13a02-adeb-e9d9-7e23-80a7c8ea9690
+video_metadata:
+  youtube_id: null
 ---
 
 Lecture Schedule
@@ -48,7 +51,7 @@ Introduction to Course
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Concepts of National Security Policy ([PDF]({{< baseurl >}}/resources/17_471_01_national_security_policy))
+Concepts of National Security Policy ({{% resource_link 7ca3e1ce-1cd7-1ce3-8873-0cd0a24ba790 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -79,7 +82,7 @@ Ernest May, "National Security in American History," Chapter 3 in Graham Allison
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Special Sessions: The Attacks of September 11th & American National Security ([PDF]({{< baseurl >}}/resources/17_471_02_international_terrorism))
+Special Sessions: The Attacks of September 11th & American National Security ({{% resource_link aa082b94-9c32-0476-d8e9-41f453e3b0e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -102,7 +105,7 @@ Boston Globe article on the CIA. (online)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Analyzing National Security Policy ([PDF]({{< baseurl >}}/resources/17_471_03_realist_model))
+Analyzing National Security Policy ({{% resource_link 44d2d261-bfae-077d-b997-63feca1f6b80 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -113,7 +116,7 @@ John Shalikashvili, "The National Military Strategy of the USA," in Hays, Vallan
 
 Charles Nelson, "Keeping the Edge," in Hays, Vallance, & Van Tassel, _American Defense Policy_, pp. 206-212.
 
-National Security Policy of the United States, 2002. ([PDF]({{< baseurl >}}/resources/nss))
+National Security Policy of the United States, 2002. ({{% resource_link b132159f-a229-030f-5816-e0555511dd0d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -127,7 +130,7 @@ National Security Policy of the United States, 2002. ([PDF]({{< baseurl >}}/reso
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Analyzing National Security Policy ([PDF]({{< baseurl >}}/resources/17_471_04_beyond_the_realist_model))
+Analyzing National Security Policy ({{% resource_link 9e77aa9f-37c4-307d-93b9-d6364f11fd9e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -156,7 +159,7 @@ Robert Jervis, "Hypotheses on Misperception," in Hays, Vallance, & Van Tassel, _
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The President & Congress in National Security Policymaking ([PDF]({{< baseurl >}}/resources/17_471_05_president_and_congress))
+The President & Congress in National Security Policymaking ({{% resource_link b4fb6e14-dbb7-336b-dbc2-ccc14eb0927d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -169,7 +172,7 @@ Linda Jamison, "Executive-Legislative Relations After the Cold War," in Hays, Va
 
 John Tower, Brent Scowcroft, & Edmund Muskie, "Organizing for National Security," in Hays, Vallance, & Van Tassel_, American Defense Policy_, pp. 185-188.
 
-The War Powers Resolution 1973. ([PDF]({{< baseurl >}}/resources/the_war_powers_act_of_1973))
+The War Powers Resolution 1973. ({{% resource_link 36ef2c9c-d613-dd1d-385d-557aa3b20f0a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +186,7 @@ The War Powers Resolution 1973. ([PDF]({{< baseurl >}}/resources/the_war_powers_
 7
 {{< tdclose >}}
 {{< tdopen >}}
-The National Security Bureaucracy ([PDF]({{< baseurl >}}/resources/17_471_06_the_national_security_bureaucracy))
+The National Security Bureaucracy ({{% resource_link d69412ad-3d29-fe4a-c70c-18efd41f3984 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -212,7 +215,7 @@ Commission on the Roles and Capabilities of the U.S. Intelligence Community, "Pr
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Interest Groups, the Media, and the Public in National Security Policy ([PDF]({{< baseurl >}}/resources/17_471_07_interest_groups_media_public))
+Interest Groups, the Media, and the Public in National Security Policy ({{% resource_link c86204b1-90f4-df80-b31d-f463b884624e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -226,7 +229,7 @@ Catherine Kelleher, "Presidents, Polls, and the Use of Force," in Hays, Vallance
 
 {{< tdclose >}}
 {{< tdopen >}}
-First Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class8assignments))
+First Paper Due in Class. ({{% resource_link a6d687a6-1cdf-9d6a-a50b-0d79e6884616 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +247,7 @@ National Secutiry Policy as History
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The Beginning of the Cold War: 1945-1952(1) ([PDF]({{< baseurl >}}/resources/17_471_08_19451949))
+The Beginning of the Cold War: 1945-1952(1) ({{% resource_link ebbaf771-dc68-9844-4475-94c6bc547eeb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -268,7 +271,7 @@ Thomas J. Christensen, "Moderate Strategies and Crusading Rhetoric: Truman Mobil
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The Beginning of the Cold War: 1945-1952(2) ([PDF]({{< baseurl >}}/resources/17_471_09_19491952))
+The Beginning of the Cold War: 1945-1952(2) ({{% resource_link 63955c4c-28e3-070f-db13-ee9dcb430b09 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -289,7 +292,7 @@ NSC-68; _source1_ or _source2._ (online)
 11 & 12
 {{< tdclose >}}
 {{< tdopen >}}
-American Remilitarizes 1952-1959 ([PDF]({{< baseurl >}}/resources/17_471_10_19521959))
+American Remilitarizes 1952-1959 ({{% resource_link be983b94-affd-2676-1650-bedc9c61f677 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -303,7 +306,7 @@ Halperin, "Organizational Interests," Chapter 3 in _Bureaucratic Politics & Fore
 
 {{< tdclose >}}
 {{< tdopen >}}
-Re-Write of First Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class11assignments))
+Re-Write of First Paper Due in Class. ({{% resource_link 48f6bb05-c2f7-dcc6-deb2-71ad44e4bacd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +315,7 @@ Re-Write of First Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class11as
 13 & 14
 {{< tdclose >}}
 {{< tdopen >}}
-America Remilitarizes Again! 1960-1968 ([PDF - 1.1 MB]({{< baseurl >}}/resources/17_471_11_19601964))
+America Remilitarizes Again! 1960-1968 ({{% resource_link 438c51a8-854b-7b72-36a3-c992f1b8b8f1 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -343,7 +346,7 @@ Robert McNamara, "The No-Cities Doctrine," in _The Uses of Force_, pp. 148-149.
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Vietnam & Strategic Superiority: 1965-1968 ([PDF]({{< baseurl >}}/resources/17_471_12_19651969))
+Vietnam & Strategic Superiority: 1965-1968 ({{% resource_link 83fe8018-7886-468a-ba06-f4c504f764bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -379,7 +382,7 @@ Gaddis, Chapters 9 & 10, _Strategies of Containment._
 
 Sanders Sol and William Henderson, "The Consequences of ‘Vietnam," _Orbis_ 21.1, pp. 61-76.
 
-N-I-E 11-4-78 Soviet Goals and Expectations in the Global Power Arena. ([PDF]({{< baseurl >}}/resources/nie_11478))
+N-I-E 11-4-78 Soviet Goals and Expectations in the Global Power Arena. ({{% resource_link fb680ee6-3cc7-e9ed-a3e5-f90743b8a52f "PDF" %}})
 
 Sino-Soviet Conflict (source material). (online)
 
@@ -403,7 +406,7 @@ James Kurth, "A Widening Gyre: The Logic of American Weapons Procurement," _Publ
 18
 {{< tdclose >}}
 {{< tdopen >}}
-The Ford, and Carter Years: 1969-1979 ([PDF - 1 MB]({{< baseurl >}}/resources/17_471_14_19741980))
+The Ford, and Carter Years: 1969-1979 ({{% resource_link 816b694e-10ef-0d4b-c927-a09911ad024c "PDF - 1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -415,7 +418,7 @@ Z. Brzezinski, _Power and Principle_.
 
 {{< tdclose >}}
 {{< tdopen >}}
-Second Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class18assignments))
+Second Paper Due in Class. ({{% resource_link af606de9-576f-45fd-b28a-c74e02c0530b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -424,16 +427,16 @@ Second Paper Due in Class. ([PDF]({{< baseurl >}}/resources/class18assignments))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-America Remilitarizes Yet Again! (deja vu): 1980-1992 (1) ([PDF - 1 MB]({{< baseurl >}}/resources/17_471_15_19801988))
+America Remilitarizes Yet Again! (deja vu): 1980-1992 (1) ({{% resource_link 8b733e3a-7976-3875-78b6-5b7729fccab9 "PDF - 1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Barry Posen and Steve Van Evera, "Defense Policy and the Reagan Administration: Departure from Containment," _International Security_, Vol. 8, No.1 (Summer 1983), pp. 3-45.
 
-Reagan SDI Speech, 1982. ([PDF]({{< baseurl >}}/resources/reagan_sdi_speech))
+Reagan SDI Speech, 1982. ({{% resource_link 11d7f0fe-d7e0-4f71-797e-f5894f3d5f89 "PDF" %}})
 
-N-I-E 11-4-82 Soviet Goals and Expectations in the Global Power Arena. ([PDF]({{< baseurl >}}/resources/nie_11482))
+N-I-E 11-4-82 Soviet Goals and Expectations in the Global Power Arena. ({{% resource_link 2e8e46f9-20f2-21bf-394f-bf7556d0a040 "PDF" %}})
 
 Strobe Talbott, "SDI During the Reagan Years," Chapter 2 in Joseph S. Nye, Jr. and James Shear, _On the Defensive?_ _The Future of SDI._
 
@@ -453,7 +456,7 @@ Lars-Erik Nelson, "Fantasia," _The New York Review of Books_, May 11, 2001. (onl
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Managing the End of the Soviet Union -- The Bush (I) Administration: 1989-1992 ([PDF]({{< baseurl >}}/resources/17_471_16_19891992))
+Managing the End of the Soviet Union -- The Bush (I) Administration: 1989-1992 ({{% resource_link 1c72ebc7-202f-3c0e-36c3-4cf48c6b1998 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -487,7 +490,7 @@ Basking in the Post-Cold War Sunshine 1992-2000
 21
 {{< tdclose >}}
 {{< tdopen >}}
-The Clinton Adminstration: 1993-2000 ([PDF]({{< baseurl >}}/resources/17_471_18_19931999))
+The Clinton Adminstration: 1993-2000 ({{% resource_link 520daf11-2477-9284-5169-e05651946902 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -529,7 +532,7 @@ Terrorism & Technological Threats: Weapons of Mass Destruction
 
 Marc Dean Millot, "Facing the Emerging Reality of Regional Nuclear Adversaries," in Hays, Vallance, & Van Tassel, _American Defense Policy_, pp. 453-470.
 
-Homeland Security Strategy, 2002. ([PDF - 2.6 MB]({{< baseurl >}}/resources/homeland_security_strategy))
+Homeland Security Strategy, 2002. ({{% resource_link 996f05c7-29b6-dae7-82b8-4a81a3012eb4 "PDF - 2.6 MB" %}})
 
 TIPS Fact Sheet. (online)
 
@@ -549,7 +552,7 @@ Steven Simon, and Daniel Benjamin, "America & the New Terrorism," in _Survival_,
 23 & 24
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions I -- Nuclear Weapons ([PDF]({{< baseurl >}}/resources/17_471_19_nuclear_weapons))
+Solutions I -- Nuclear Weapons ({{% resource_link 19db82fd-59af-c477-c75d-7bc236f32508 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -580,7 +583,7 @@ John Deutch, "National Missile Defense: Is there another way?", in _Foreign Poli
  
 {{< tdclose >}}
 {{< tdopen >}}
-Third Paper Due ([PDF]({{< baseurl >}}/resources/class25assignments))
+Third Paper Due ({{% resource_link ee2b84d2-5e6f-1676-16f1-34352d82c35e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

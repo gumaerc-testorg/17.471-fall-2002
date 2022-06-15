@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 839264ac-7eac-f47f-059d-946bc1456b8c
+video_metadata:
+  youtube_id: null
 ---
 
 *   Deutch, John, et al, "[National Missile Defense: Is there another way?](http://www.foreignpolicy.com/articles/2009/10/21/what_missile_defense)" Foreign Policy Magazine, 2000.
