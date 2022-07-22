@@ -4,6 +4,7 @@ description: 'Paper #2'
 file: /courses/17-471-american-national-security-policy-fall-2002/af606de9576f45fdb28ac74e02c0530b_class18assignments.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 Paper #2
-

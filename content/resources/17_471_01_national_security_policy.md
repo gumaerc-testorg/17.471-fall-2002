@@ -5,6 +5,7 @@ description: This resource contains information about the elements of national s
 file: /courses/17-471-american-national-security-policy-fall-2002/7ca3e1ce1cd71ce388730cd0a24ba790_17_471_01_National_Security_Policy.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about the elements of national security policy.
-
