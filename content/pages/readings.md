@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides information on the course texts, required readings,
+  and suggested readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f2d20bc6-e990-0162-c262-60cd693b0cfb
+video_metadata:
+  youtube_id: null
 ---
 
 Texts
@@ -60,7 +67,7 @@ Hays, Vallance, and Van Tassel, "What is American Defense Policy?" in Hays, Vall
 
 Holsti, Ole, "Crisis, Stress, and Decision Making," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 248-257.
 
-Homeland Security Strategy 2002. ([PDF - 2.6 MB]({{< baseurl >}}/resources/homeland_security_strategy))
+Homeland Security Strategy 2002. ({{% resource_link 996f05c7-29b6-dae7-82b8-4a81a3012eb4 "PDF - 2.6 MB" %}})
 
 Huntington, Samuel, "New Contingencies, Old Roles," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 393-396.
 
@@ -98,7 +105,7 @@ National Commission on Terrorism, _Countering the Changing Threat,_ 2000.
 
 Neustadt, Richard, "The President's Power to Pursuade," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 73-80.
 
-N-I-E 11-4-78 Soviet Goals and Expectations in the Global Power Arena ([PDF]({{< baseurl >}}/resources/nie_11478)).
+N-I-E 11-4-78 Soviet Goals and Expectations in the Global Power Arena ({{% resource_link fb680ee6-3cc7-e9ed-a3e5-f90743b8a52f "PDF" %}}).
 
 Nunn, Sam, "Domestic Missions for the Armed Forces," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 397-400.
 
@@ -106,7 +113,7 @@ Peterson, Peter and James Sebenius, "The Primacy of the Domestic Agenda," in Hay
 
 Rattray, Gregory, "Introduction to Arms Control," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 418-422.
 
-Reagan SDI Speech, 1982. ([PDF]({{< baseurl >}}/resources/reagan_sdi_speech))
+Reagan SDI Speech, 1982. ({{% resource_link 11d7f0fe-d7e0-4f71-797e-f5894f3d5f89 "PDF" %}})
 
 Rice, Donald, "Global Reach -- Global Power," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 350-356.
 
@@ -138,7 +145,7 @@ Tower, John, Brent Scowcroft, and Edmund Muskie, "The Iran-Contra Affair," in Ha
 
 Vallance, "Introduction," in Hays, Vallance, and Van Tassel, American _Defense Policy_, 1997, pp. 503-506.
 
-The War Powers Resolution 1973. ([PDF]({{< baseurl >}}/resources/thewarpowersactof1973)).
+The War Powers Resolution 1973. ({{% resource_link 8d4d499a-313a-28d0-82fe-06424ff7227e "PDF" %}}).
 
 Widnall, Sheila, and Ronald Fogelman, "Global Presence," in Hays, Vallance, and Van Tassel, _American Defense Policy_, 1997, pp. 357-359.
 

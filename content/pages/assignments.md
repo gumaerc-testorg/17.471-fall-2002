@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section provides details on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c93fdb03-6063-b169-a61d-03b8da93c5ff
+video_metadata:
+  youtube_id: null
 ---
 
 Paper Topics and Due Dates
