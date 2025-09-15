@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information about the analyzing national security
   policy.
-file: /courses/17-471-american-national-security-policy-fall-2002/44d2d261bfae077db99763feca1f6b80_17_471_03_Realist_Model.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/44d2d261bfae077db99763feca1f6b80_17_471_03_Realist_Model.pdf
+file_size: 97795
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: The War Powers Act of 1973
-file: /courses/17-471-american-national-security-policy-fall-2002/8d4d499a313a28d082fe06424ff7227e_TheWarPowersActof1973.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/8d4d499a313a28d082fe06424ff7227e_TheWarPowersActof1973.pdf
+file_size: 104627
 file_type: application/pdf
 learning_resource_types:
 - Readings

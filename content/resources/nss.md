@@ -2,7 +2,8 @@
 content_type: resource
 description: The National Security Strategy of the United States of America, September
   2002.
-file: /courses/17-471-american-national-security-policy-fall-2002/b132159fa229030f5816e0555511dd0d_nss.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/b132159fa229030f5816e0555511dd0d_nss.pdf
+file_size: 366853
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information about the reagan SDI speech.
-file: /courses/17-471-american-national-security-policy-fall-2002/11d7f0fed7e04f71797ef5894f3d5f89_Reagan_SDI_Speech.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/11d7f0fed7e04f71797ef5894f3d5f89_Reagan_SDI_Speech.pdf
+file_size: 86660
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

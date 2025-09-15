@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information about the beyond the realist model.
-file: /courses/17-471-american-national-security-policy-fall-2002/9e77aa9f37c4307d93b9d6364f11fd9e_17_471_04_Beyond_the_Realist_Model.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/9e77aa9f37c4307d93b9d6364f11fd9e_17_471_04_Beyond_the_Realist_Model.pdf
+file_size: 171744
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

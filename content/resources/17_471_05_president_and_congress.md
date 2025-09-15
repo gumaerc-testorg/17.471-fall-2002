@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information about the national security "Players".
-file: /courses/17-471-american-national-security-policy-fall-2002/b4fb6e14dbb7336bdbc2ccc14eb0927d_17_471_05_President_and_Congress.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/b4fb6e14dbb7336bdbc2ccc14eb0927d_17_471_05_President_and_Congress.pdf
+file_size: 97031
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

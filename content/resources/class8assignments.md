@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Paper #1'
-file: /courses/17-471-american-national-security-policy-fall-2002/a6d687a61cdf9d6aa50b0d79e6884616_class8assignments.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/a6d687a61cdf9d6aa50b0d79e6884616_class8assignments.pdf
+file_size: 133244
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

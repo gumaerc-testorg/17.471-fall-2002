@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information about the national strategy for homeland
   security.
-file: /courses/17-471-american-national-security-policy-fall-2002/996f05c729b6dae782b84a81a3012eb4_Homeland_Security_Strategy.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/996f05c729b6dae782b84a81a3012eb4_Homeland_Security_Strategy.pdf
+file_size: 871120
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

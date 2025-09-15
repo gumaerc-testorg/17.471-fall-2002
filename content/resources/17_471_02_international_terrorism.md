@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information about the terrorism threats & trends.
-file: /courses/17-471-american-national-security-policy-fall-2002/aa082b949c320476d8e941f453e3b0e6_17_471_02_International_Terrorism.pdf
+file: /ol-ocw-studio-app/courses/17-471-american-national-security-policy-fall-2002/aa082b949c320476d8e941f453e3b0e6_17_471_02_International_Terrorism.pdf
+file_size: 187916
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
