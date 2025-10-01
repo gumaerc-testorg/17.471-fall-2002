@@ -9,12 +9,12 @@ video_metadata:
   youtube_id: null
 ---
 
-*   Deutch, John, et al, "[National Missile Defense: Is there another way?](http://www.foreignpolicy.com/articles/2009/10/21/what_missile_defense)" Foreign Policy Magazine, 2000.
-*   Dulles, John Foster, "[Massive Retaliation](http://www.britannica.com/EBchecked/topic/421797/nuclear-strategy/52987/Massive-retaliation)".
-*   [FBI Racial Violence Potential in the US This Summer, 1967](http://www.gwu.edu/~nsarchiv/coldwar/documents/episode-13/01-01.htm) \[classified memo\].
-*   [National Security Strategy of the United States](https://georgewbush-whitehouse.archives.gov/nsc/nss/2002/). 2002
-*   Nelson, Lars-Erik, "[Fantasia](http://www.nybooks.com/articles/115)," The New York Review of Books, 11 May 2001.
-*   [NSC-68](https://www.mtholyoke.edu/acad/intrel/nsc-68/nsc68-1.htm); 
-*   [Sino-Soviet Conflict](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB49/) (source material).
-*   Thompson Jr., James C., "[How Could Vietnam Happen? An Autopsy](http://www.theatlantic.com/issues/68apr/vietnam.htm)," The Atlantic Monthly, April, Vol. 221, No. 4., 1968, pp. 41-53.
-*   U.S. State Department (2002), [Patterns of Global Terrorism 2001](https://2009-2017.state.gov/j/ct/rls/crt/2001//index.htm)_._
+*   Deutch, John, et al, "{{% resource_link "8bd866b8-e471-4287-ae2b-ed2013a47a5b" "National Missile Defense: Is there another way?" %}}" Foreign Policy Magazine, 2000.
+*   Dulles, John Foster, "{{% resource_link "d9184c3d-1169-463a-9195-0fc3620b3f57" "Massive Retaliation" %}}".
+*   {{% resource_link "feaf91bc-c861-40fb-97df-0e06dcf80c64" "FBI Racial Violence Potential in the US This Summer, 1967" %}} \[classified memo\].
+*   {{% resource_link "c731b14c-d422-40e7-b606-5d353b4e5feb" "National Security Strategy of the United States" %}}. 2002
+*   Nelson, Lars-Erik, "{{% resource_link "6c73f51b-40b7-49e0-9064-ee46ae8112d6" "Fantasia" %}}," The New York Review of Books, 11 May 2001.
+*   {{% resource_link "9a88f390-2928-4928-91e1-4aa41dcfa62f" "NSC-68" %}}; 
+*   {{% resource_link "4a6c37a8-8479-4cbe-bf9d-94a26451cc4b" "Sino-Soviet Conflict" %}} (source material).
+*   Thompson Jr., James C., "{{% resource_link "b5648876-8a1f-45c0-9b64-880667e6b41e" "How Could Vietnam Happen? An Autopsy" %}}," The Atlantic Monthly, April, Vol. 221, No. 4., 1968, pp. 41-53.
+*   U.S. State Department (2002), {{% resource_link "700cc371-043c-407f-b8d3-5c1b09e8e9bb" "Patterns of Global Terrorism 2001" %}}_._
